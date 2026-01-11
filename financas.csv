@@ -1,0 +1,18 @@
+Data,Item,Categoria,Valor,Tipo
+2026-01-11,Salários ,Salário,10000.0,Entrada
+2026-01-11,Aluguel,Aluguel,-2075.0,Saída
+2026-01-11,Rancho,Alimentação,-1600.0,Saída
+2026-01-11,Reserva Financeira,Reserva Financeira (Selic),-3000.0,Investimento
+2026-01-11,Pintura do carro,Conserto Carro,-1000.0,Saída
+2026-01-11,Lazer,Lazer,-1500.0,Saída
+2026-01-11,Ração SKY,Outros,-120.0,Saída
+2026-01-11,Restaurante,Alimentação,-70.0,Saída
+2026-01-11,Barbeiro,Barbeiro,-50.0,Saída
+2026-01-11,Bonificação,Outros,10.0,Entrada
+2026-01-11,Juros do cartão ,Outros,-50.0,Saída
+2026-02-01,Salários,Salário,10000.0,Entrada
+2026-02-01,Aluguel,Aluguel,-2075.0,Saída
+2026-02-01,Rancho,Alimentação,-1600.0,Saída
+2026-02-01,Luz,Conta de Luz,-130.0,Saída
+2026-02-01,Reserva de Emergência,Reserva Financeira (Selic),-3000.0,Investimento
+2026-02-01,Lazer,Lazer,-2000.0,Saída
